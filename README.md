@@ -64,3 +64,9 @@ Pest this command into your terminal and Hit <kbd>Enter</kbd>
 Now give this command and see your downloaded font name `MesloLGS NF Regular`
 
     ls
+
+## Step 14:
+![Step 14](images/14.png)<br/>
+Now clear the terminal by this command
+
+    clear
