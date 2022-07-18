@@ -51,4 +51,4 @@ Now go to [this](https://github.com/romkatv/powerlevel10k/blob/master/font.md) p
 ![Step 11](images/11.png)<br/>
 No go to `fonts` directory by `cd` command
 
-    cd/usr/share/fonts/
+    cd /usr/share/fonts/
