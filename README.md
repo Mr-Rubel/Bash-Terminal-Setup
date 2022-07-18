@@ -40,4 +40,5 @@ Now Choose the number of theme. In Mycase it's `171` number theme. After choose 
 Now just Press <kbd>q</kbd> from your Keyboard
 
 ## You're almost done!! after coming this stage
+As you seen here the Terminal looking very worst, We have to make it beautiful
 ![Step 10](images/10.png)<br/>
