@@ -94,3 +94,12 @@ Now it's look like:
 ![look](images/19.png)<br/>
 ## Run this command again
     bash -c "$(wget -qO- git.io/zsh.sh)"
+
+This time previous all steps are same and password will not required.
+
+## Final step:
+After finish all process type this command
+
+    sudo reboot
+
+<h1 align='center'>Best of luck</h1>
