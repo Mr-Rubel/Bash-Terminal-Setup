@@ -18,3 +18,7 @@ Just Press <kbd>Enter</kbd>
 ## Step 4:
 ![Step 4](images/4.png)<br/>
 Just Press <kbd>Enter</kbd>
+
+## Step 5:
+![Step 5](images/5.png)<br/>
+Type your local computer password and Hit <kbd>Enter</kbd>
