@@ -10,3 +10,7 @@ Past this command on your terminal and Hit <kbd>Enter</kbd>
 ## Step 2:
 ![Step 2](images/2.png)<br/>
 No need to type anything, just Press <kbd>Enter</kbd>
+
+## Step 3:
+![Step 3](images/3.png)<br/>
+Again Press <kbd>Enter</kbd>
