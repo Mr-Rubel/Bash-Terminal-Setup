@@ -84,3 +84,6 @@ Now clear the terminal by this command
 Now search `MesloLGS` and click to `select` this font
 ![Step 17](images/17.png)<br/>
 After selected font click `Close` to quite this Preferences
+
+Now it's look like:
+![look](images/18.png)
