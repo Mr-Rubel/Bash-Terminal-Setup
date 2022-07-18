@@ -47,3 +47,8 @@ As you can see here the Terminal looking very worst, We have to make it beautifu
 Now go to [this](https://github.com/romkatv/powerlevel10k/blob/master/font.md) page and `copy` the font download link.
 ![Step 10](images/10-copy-link.png)
 
+## Step 11:
+![Step 11](images/11.png)<br/>
+No go to `fonts` directory by `cd` command
+
+    cd/usr/share/fonts/
