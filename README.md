@@ -42,3 +42,6 @@ Now just Press <kbd>q</kbd> from your Keyboard
 ## You're almost done!! after coming this stage
 As you can see here the Terminal looking very worst, We have to make it beautiful
 ![Step 10](images/10-worst.png)<br/>
+
+## Step 10:
+Now Download [MesloLGS NF Regular font](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf) font from this link
