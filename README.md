@@ -86,4 +86,8 @@ Now search `MesloLGS` and click to `select` this font
 After selected font click `Close` to quite this Preferences
 
 Now it's look like:
-![look](images/18.png)
+![look](images/18.png)<br/>
+
+## Now switch to `root user`
+
+    sudo su
