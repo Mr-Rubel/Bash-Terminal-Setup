@@ -76,4 +76,5 @@ Now clear the terminal by this command
 `Right` click on mouse and go to `Preferences`<br/>
 
 
-#### Go to `Appearance` tab. Make sure uncheck `Use system font`. Click on `font name`, in Mycase it's `Monospace Regular`
+### Go to `Appearance` tab. Make sure uncheck `Use system font`. Click on `font name`, in Mycase it's `Monospace Regular`<br/>
+![step](images/16.png)
