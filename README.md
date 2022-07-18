@@ -78,3 +78,9 @@ Now clear the terminal by this command
 
 ### Go to `Appearance` tab. Make sure uncheck `Use system font`. Click on `font name`, in Mycase it's `Monospace Regular`<br/>
 ![step](images/16.png)
+
+
+## Step 16:
+Now search `MesloLGS` and click to `select` this font
+![Step 17](images/17.png)<br/>
+After selected font click `Close` to quite this Preferences
