@@ -44,4 +44,4 @@ As you can see here the Terminal looking very worst, We have to make it beautifu
 ![Step 10](images/10-worst.png)<br/>
 
 ## Step 10:
-Now Download [MesloLGS NF Regular font](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf) font from this link
+Now go to [this](https://github.com/romkatv/powerlevel10k/blob/master/font.md) page and <kbd>copy</kbd> the font download link.
