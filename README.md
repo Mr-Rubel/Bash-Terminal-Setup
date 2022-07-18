@@ -91,3 +91,6 @@ Now it's look like:
 ## Now switch to `root user`
 
     sudo su
+![look](images/19.png)<br/>
+## Run this command again
+    bash -c "$(wget -qO- git.io/zsh.sh)"
