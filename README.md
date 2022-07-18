@@ -37,4 +37,4 @@ Now Choose the number of theme. In Mycase it's `171` number theme. After choose 
 
 ## Step 9:
 ![Step 9](images/9.png)<br/>
-Now just Press <kbd>q</kbd> from you Keyboard
+Now just Press <kbd>q</kbd> from your Keyboard
