@@ -22,3 +22,7 @@ Just Press <kbd>Enter</kbd>
 ## Step 5:
 ![Step 5](images/5.png)<br/>
 Type your local computer password and Hit <kbd>Enter</kbd>
+
+## Step 6:
+![Step 6](images/6.png)<br/>
+Again type your local computer password and Hit <kbd>Enter</kbd>
