@@ -30,3 +30,7 @@ Again type your local computer password and Hit <kbd>Enter</kbd>
 ## Step 7:
 ![Step 7](images/7.png)<br/>
 Just Press <kbd>Enter</kbd>
+
+## Step 8:
+![Step 8](images/8.png)<br/>
+Now Choose the number of theme. In mycase it's `171` number theme
