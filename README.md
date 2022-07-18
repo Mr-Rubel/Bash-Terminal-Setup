@@ -58,3 +58,9 @@ Now go to `fonts` directory by `cd` command
 Pest this command into your terminal and Hit <kbd>Enter</kbd>
 
     sudo wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf
+
+## Step 13:
+![Step 13](images/13.png)<br/>
+Now give this command and see your downloaded font name `MesloLGS NF Regular`
+
+    ls
