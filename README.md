@@ -70,3 +70,7 @@ Now give this command and see your downloaded font name `MesloLGS NF Regular`
 Now clear the terminal by this command
 
     clear
+
+## Step 15:
+![Step 15](images/15.png)<br/>
+`Right` click on mouse and go to `Preferences`<br/>
