@@ -33,4 +33,4 @@ Just Press <kbd>Enter</kbd>
 
 ## Step 8:
 ![Step 8](images/8.png)<br/>
-Now Choose the number of theme. In Mycase it's `171` number theme
+Now Choose the number of theme. In Mycase it's `171` number theme. After choose theme Hit <kbd>Enter</kbd>
