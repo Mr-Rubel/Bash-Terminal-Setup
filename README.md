@@ -9,4 +9,4 @@ Past this command on your terminal and Hit <kbd>Enter</kbd>
 
 ## Step 2:
 ![Step 2](images/2.png)<br/>
-Press <kbd>Enter</kbd>
+No need to type anything, just Press <kbd>Enter</kbd>
