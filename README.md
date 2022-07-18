@@ -2,6 +2,10 @@
 
 ![Step 1](images/show.png)
 
+## Start from here:
+
+    sudo apt-get update -y && sudo apt-get upgrade -y
+
 ## Step 1:
 Past this command on your terminal and Hit <kbd>Enter</kbd>
 
